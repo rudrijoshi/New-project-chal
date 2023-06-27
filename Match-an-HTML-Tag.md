@@ -1,7 +1,5 @@
 # Regex Tutorial - Match an HTML Tag
 
-Introductory paragraph (replace this with your text)
-
 ## Summary
 
 The tutorial is going to describe the usage of regex in order to match the HTML tags with the help of the expression /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/. This is can be tremendously useful when working with HTML as it allows a user to find and modify attributes or specific tags inside an HTML document.

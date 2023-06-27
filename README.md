@@ -37,4 +37,4 @@ If you followed tutorials, include links to those here as well: https://coding-b
 
 The URL of the GitHub repository.:https://github.com/rudrijoshi/Regex-Tutorial-Match-an-HTML-Tag/
 
-The URL of the GitHub gist. Give the gist a unique name.:https://rudrijoshi.github.io/Regex-Tutorial-Match-an-HTML-Tag/
+The URL of the GitHub gist. Give the gist a unique name.:https://github.com/rudrijoshi/Regex-Tutorial-Match-an-HTML-Tag/blob/main/Match-an-HTML-Tag.md
